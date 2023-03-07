@@ -2,9 +2,9 @@
 
 | **Requested by:**           | **Ghesa**          |
 |-----------------------------|--------------------|
-| **Doc. Code / Version nº:** | 3151_MCS_0008      |
-| **Editor:**                 | PLG                |
-| **Approved by:**            | EUI                |
+| **Doc. Code:**              | 3151_MCS_0008      |
+| **Editor:**                 | Julen              |
+| **Approved by:**            | Alberto            |
 
 ## Introduction
 
@@ -18,7 +18,7 @@ This document contains the general equipment description of the TMA interlock sy
 | **2**  | LSST Summit Safety Interlock System                                      | LTS-99             |             |
 | **3**  | Telescope Mount Assembly to Interlock System Interface Control Document” | LTS-173            |             |
 | **4**  | TMA Safety Hazard Analysis 24-04-2013                                    | 14428              | V2          |
-| **5**  | TMA IS HW Design Report    | 3151_MCS_0007      | 3.0         |
+| **5**  | TMA IS HW Design Report                                                  | 3151_MCS_0007      | 3.0         |
 | **6**  | MCS Equipment General Description                                        | 3151_MCS_0004      | 3.0         |
 
 ## Safety Hardware
